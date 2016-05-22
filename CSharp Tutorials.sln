@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017-Methods parameters", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018-namespaces", "namespaces\018-namespaces.csproj", "{A9F08FB8-798F-4836-B724-FC1DBD868BBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019-intro to classes", "019-intro to classes\019-intro to classes.csproj", "{57C06ECE-456F-4B80-A528-6BEFEF1BD595}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A9F08FB8-798F-4836-B724-FC1DBD868BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9F08FB8-798F-4836-B724-FC1DBD868BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9F08FB8-798F-4836-B724-FC1DBD868BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C06ECE-456F-4B80-A528-6BEFEF1BD595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C06ECE-456F-4B80-A528-6BEFEF1BD595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C06ECE-456F-4B80-A528-6BEFEF1BD595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C06ECE-456F-4B80-A528-6BEFEF1BD595}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
