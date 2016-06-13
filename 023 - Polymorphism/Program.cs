@@ -44,7 +44,7 @@ namespace _023___Polymorphism
     {
         public override void PrintFullname()
         {
-            Console.WriteLine("{0} {1} - temp Time", FirstName, Lastname);
+            Console.WriteLine("{FirstName} {Lastname} - temp Time");
         }
     }
     class Program
