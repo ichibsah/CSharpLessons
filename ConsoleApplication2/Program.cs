@@ -27,6 +27,7 @@ namespace ConsoleApplication1
 
             start = 0;
 
+            /*infinite loop*/
             while (start <= userTagert)
             {
                 Console.WriteLine(start);
