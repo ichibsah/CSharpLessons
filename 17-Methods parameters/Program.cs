@@ -23,7 +23,7 @@ namespace _17_Methods_parameters
 
             Console.WriteLine("Sum = {0} & Product = {1}", Total, Product);
 
-            /*parameteres array*/
+            /*parameters array*/
             int[] Numbers = new int[3];
 
             ParamsMethod();
